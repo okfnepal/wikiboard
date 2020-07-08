@@ -6643,7 +6643,7 @@ button.bg-dark:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 3rem !important; }
+  margin-top: 2rem !important; }
 
 .mr-5,
 .mx-5 {
@@ -6651,7 +6651,7 @@ button.bg-dark:focus {
 
 .mb-5,
 .my-5 {
-  margin-bottom: 3rem !important; }
+  margin-bottom: 2rem !important; }
 
 .ml-5,
 .mx-5 {
@@ -6757,7 +6757,7 @@ button.bg-dark:focus {
 
 .pt-5,
 .py-5 {
-  padding-top: 3rem !important; }
+  padding-top: 2rem !important; }
 
 .pr-5,
 .px-5 {
@@ -6765,7 +6765,7 @@ button.bg-dark:focus {
 
 .pb-5,
 .py-5 {
-  padding-bottom: 3rem !important; }
+  padding-bottom: 2rem !important; }
 
 .pl-5,
 .px-5 {
@@ -8944,7 +8944,7 @@ textarea.form-control {
     font-size: 24px; }
 
 .ftco-section {
-  padding: 7em 0;
+  padding: 3em 0;
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
